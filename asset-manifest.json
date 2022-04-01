@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/moxie99/AdenikePortfolio2022/static/css/main.c73e0707.chunk.css",
+    "main.js": "/moxie99/AdenikePortfolio2022/static/js/main.f7cd6e53.chunk.js",
+    "main.js.map": "/moxie99/AdenikePortfolio2022/static/js/main.f7cd6e53.chunk.js.map",
+    "runtime-main.js": "/moxie99/AdenikePortfolio2022/static/js/runtime-main.11c5c917.js",
+    "runtime-main.js.map": "/moxie99/AdenikePortfolio2022/static/js/runtime-main.11c5c917.js.map",
+    "static/css/2.31ff0196.chunk.css": "/moxie99/AdenikePortfolio2022/static/css/2.31ff0196.chunk.css",
+    "static/js/2.1ec96b1e.chunk.js": "/moxie99/AdenikePortfolio2022/static/js/2.1ec96b1e.chunk.js",
+    "static/js/2.1ec96b1e.chunk.js.map": "/moxie99/AdenikePortfolio2022/static/js/2.1ec96b1e.chunk.js.map",
+    "static/js/3.9232ae11.chunk.js": "/moxie99/AdenikePortfolio2022/static/js/3.9232ae11.chunk.js",
+    "static/js/3.9232ae11.chunk.js.map": "/moxie99/AdenikePortfolio2022/static/js/3.9232ae11.chunk.js.map",
+    "index.html": "/moxie99/AdenikePortfolio2022/index.html",
+    "static/css/2.31ff0196.chunk.css.map": "/moxie99/AdenikePortfolio2022/static/css/2.31ff0196.chunk.css.map",
+    "static/css/main.c73e0707.chunk.css.map": "/moxie99/AdenikePortfolio2022/static/css/main.c73e0707.chunk.css.map",
+    "static/js/2.1ec96b1e.chunk.js.LICENSE.txt": "/moxie99/AdenikePortfolio2022/static/js/2.1ec96b1e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11c5c917.js",
+    "static/css/2.31ff0196.chunk.css",
+    "static/js/2.1ec96b1e.chunk.js",
+    "static/css/main.c73e0707.chunk.css",
+    "static/js/main.f7cd6e53.chunk.js"
+  ]
+}

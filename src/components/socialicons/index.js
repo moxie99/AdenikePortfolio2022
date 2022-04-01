@@ -1,7 +1,6 @@
 import React from "react";
 import "./style.css";
 import {
-  FaGithub,
   FaTwitter,
   FaFacebookF,
   FaLinkedin,
@@ -21,13 +20,6 @@ export const Socialicons = (params) => {
             </a>
           </li>
         )}
-        {socialprofils.github && (
-          <li>
-            <a href={socialprofils.github}>
-              <FaGithub />
-            </a>
-          </li>
-        )}
         {socialprofils.facebook && (
           <li>
             <a href={socialprofils.facebook}>
@@ -42,14 +34,7 @@ export const Socialicons = (params) => {
             </a>
           </li>
         )}
-        {socialprofils.youtube && (
-          <li>
-            <a href={socialprofils.youtube}>
-              <FaYoutube />
-            </a>
-          </li>
-        )}
-        {socialprofils.twitch && (
+        {socialprofils.instagram && (
           <li>
             <a href={socialprofils.twitch}>
               <FaTwitch />
